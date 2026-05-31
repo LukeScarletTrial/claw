@@ -61,4 +61,6 @@ Absolutely! We highly value community input as long as the pull requests and iss
 | **🥈 Major Contributor** | Assigned for performance optimizations, framework updates, and tooling utilities. |
 | **🥉 Contributor** | Assigned for specific bug fixes, game validation tests, and minor script tweaks. |
 
-**Relevant Info** : Every single patch helps optimize the engine, even the smallest structural fix. Feel free to fork the repository and submit a pull request!
+**Relevant Info** : Every single patch helps optimize the engine, even the smallest structural fix. Feel free to fork the repository and submit a pull request! while nothing is currently inside the repo (as of the last day of march 2026), everything is currently inside my SSD. also feel free to comment on anything or contribute.
+
+
